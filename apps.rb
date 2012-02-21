@@ -1,7 +1,8 @@
+require 'rubygems'
 require 'sinatra'
 
 helpers do
-  def eow()
+  def eow
     pass if Time.now != time_for('Dec 21, 2012')
     status 799
     headers \
