@@ -11,8 +11,8 @@ helpers do
     body "It's the 'END OF THE WORLD' day, thanks to mayas"
   end
 end
-# check the 'end of the world' trigger for all routes
-get '*' do
+# check the 'end of the world' for all routes
+before do
   eow()
 end
 
