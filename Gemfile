@@ -1,8 +1,8 @@
 source :rubygems
 
 gem 'sinatra'
+gem 'rake'
 
 group :test do
-  gem 'rack'
   gem 'rack-test'
 end
