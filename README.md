@@ -8,3 +8,7 @@ _use http status 799 define by_ [7XX-rfc project](https://github.com/joho/7XX-rf
 ruby apps.rb
 open http://localhost:4567 for test
 </code></pre>
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rlespinasse/sinatra-eow-bootstrap/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
