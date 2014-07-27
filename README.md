@@ -1,4 +1,4 @@
-# SINATRA 'End Of World' BOOTSTRAP [![build status](https://secure.travis-ci.org/rlespinasse/sinatra-eow-bootstrap.png)](http://travis-ci.org/rlespinasse/sinatra-eow-bootstrap)
+# SINATRA 'End Of World' BOOTSTRAP [![build status](https://secure.travis-ci.org/rlespinasse/rfc-799-sinatra.png)](http://travis-ci.org/rlespinasse/rfc-799-sinatra)
 
 it's a 'END OF THE WORLD' bootstrap for [sinatra](http://www.sinatrarb.com/) application.
 
