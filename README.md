@@ -1,4 +1,5 @@
-# SINATRA 'End Of World' BOOTSTRAP [![build status](https://secure.travis-ci.org/rlespinasse/rfc-799-sinatra.png)](http://travis-ci.org/rlespinasse/rfc-799-sinatra)
+# SINATRA 'End Of World' BOOTSTRAP
+[![build status](https://secure.travis-ci.org/rlespinasse/rfc-799-sinatra.png)](http://travis-ci.org/rlespinasse/rfc-799-sinatra) [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 it's a 'END OF THE WORLD' bootstrap for [sinatra](http://www.sinatrarb.com/) application.
 
